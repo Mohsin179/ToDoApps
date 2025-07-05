@@ -20,9 +20,11 @@ Local Database: Realm
 Enables offline access and persistence
 
 📱 Screenshots
-![simulator_screenshot_7732CF4E-4B15-47FE-9555-7BCD24545088](https://github.com/user-attachments/assets/19075a25-6484-4f6c-804f-37068e4eed5e)
-![simulator_screenshot_AA1D836D-11C9-46C8-ABB0-905D710D4EA7](https://github.com/user-atta
-![simulator_screenshot_5712AF2D-C46C-45EE-8010-AF989DA93D88](https://github.com/user-attachments/assets/d0b8c138-5a85-482a-b3b5-7b8ad81d9cb9)
-chments/assets/1363f30a-018f-40fd-8f8d-fe1158979ea2)
-![simulator_screenshot_0D604D53-0FFD-4F09-B938-300B1CF9C49B](https://github.com/user-attachments/assets/8fbfdd37-505d-4bd8-abd2-c2bada1fe214)
-![simulator_screenshot_78A0719E-F865-49B9-B872-4ECD610C7A60](https://github.com/user-attachments/assets/62a8bff5-9783-4972-84fa-94556f77b0e0)
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-05 at 21 33 05](https://github.com/user-attachments/assets/0e99c7b6-a5e2-4cd4-bd15-fd038d2756ba)
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-05 at 21 33 09](https://github.com/user-attachments/assets/668cdbe7-0e01-4ca9-847d-3a9f13fc3d33)
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-05 at 21 33 17](https://github.com/user-attachments/assets/7881b337-21ba-44cc-8142-ec57be0de163)
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-05 at 21 31 20](https://github.com/user-attachments/assets/de3227ca-0c30-44f6-9422-c74604f28a2d)
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-05 at 21 34 38](https://github.com/user-attachments/assets/d1f224a8-a469-4e04-8665-24aef45da01c)
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-05 at 21 34 32](https://github.com/user-attachments/assets/3f922bf2-a7b2-4b5a-87cf-77f4488c73b2)
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-05 at 21 34 26](https://github.com/user-attachments/assets/89533c47-d963-48a3-a80f-885211d6bf2c)
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-05 at 21 34 22](https://github.com/user-attachments/assets/2a90e815-5627-4853-81ad-43996fe575db)
